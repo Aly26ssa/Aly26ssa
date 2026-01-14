@@ -1,5 +1,5 @@
 ## Hi, I'm Alyssa Vogt 👋
-I’m a passionate Front-end Developer committed to continuous growth, treating every project as an opportunity to push the boundaries of my current knowledge. <br>
+I'm a Front-end Developer who learns best by building interfaces, debugging what breaks, and refactoring toward cleaner code. <br>
 
 - 🔭 I’m actively developing a Recipe Finder application using JavaScript. 
 - 🌱 I’m currently deepening my understanding of front-end technologies like React, Next.JS, TypeScript, and Redux.
