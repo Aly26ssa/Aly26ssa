@@ -1,7 +1,7 @@
 ## Hi, I'm Alyssa Vogt 👋
 I'm a Front-end Developer who learns best by building interfaces, debugging what breaks, and refactoring toward cleaner code. <br>
 
-- 🔭 I’m actively developing a Recipe Finder application using JavaScript. 
+- 🔭 I’m actively developing a CRUD application using React and TypeScript. 
 - 🌱 I’m currently deepening my understanding of front-end technologies like React, Next.JS, TypeScript, and Redux.
 - ⚡ Outside of VSCode: I enjoy baking and traveling.
 
